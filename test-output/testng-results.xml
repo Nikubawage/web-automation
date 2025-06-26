@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-26T10:30:26 IST" name="LoginSuite" finished-at="2025-06-26T10:30:37 IST" duration-ms="11603">
+  <suite started-at="2025-06-26T11:01:26 IST" name="LoginSuite" finished-at="2025-06-26T11:01:35 IST" duration-ms="8881">
     <groups>
     </groups>
-    <test started-at="2025-06-26T10:30:26 IST" name="LoginTests" finished-at="2025-06-26T10:30:37 IST" duration-ms="11603">
+    <test started-at="2025-06-26T11:01:26 IST" name="LoginTests" finished-at="2025-06-26T11:01:35 IST" duration-ms="8881">
       <class name="com.webplat.tests.LoginTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T10:30:26 IST" name="setUp" finished-at="2025-06-26T10:30:28 IST" duration-ms="1917" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T11:01:26 IST" name="setUp" finished-at="2025-06-26T11:01:28 IST" duration-ms="1797" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginPageLoadPerformance()[pri:1, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T10:30:28 IST" name="verifyLoginPageLoadPerformance" finished-at="2025-06-26T10:30:32 IST" duration-ms="3950" status="PASS">
+        <test-method signature="verifyLoginPageLoadPerformance()[pri:1, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T11:01:28 IST" name="verifyLoginPageLoadPerformance" finished-at="2025-06-26T11:01:31 IST" duration-ms="3842" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageLoadPerformance -->
-        <test-method signature="verifyInvalidLogin()[pri:2, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T10:30:32 IST" name="verifyInvalidLogin" finished-at="2025-06-26T10:30:36 IST" duration-ms="4130" status="PASS">
+        <test-method signature="verifyInvalidLogin()[pri:2, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T11:01:31 IST" name="verifyInvalidLogin" finished-at="2025-06-26T11:01:33 IST" duration-ms="1113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyInvalidLogin -->
-        <test-method signature="verifyForgotPasswordFlow()[pri:3, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T10:30:36 IST" name="verifyForgotPasswordFlow" finished-at="2025-06-26T10:30:36 IST" duration-ms="497" status="PASS">
+        <test-method signature="verifyForgotPasswordFlow()[pri:3, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T11:01:33 IST" name="verifyForgotPasswordFlow" finished-at="2025-06-26T11:01:34 IST" duration-ms="1339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyForgotPasswordFlow -->
-        <test-method signature="verifyInstagramRedirect()[pri:4, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T10:30:36 IST" name="verifyInstagramRedirect" finished-at="2025-06-26T10:30:37 IST" depends-on-methods="com.webplat.tests.LoginTests.verifyForgotPasswordFlow" duration-ms="705" status="PASS">
+        <test-method signature="verifyInstagramRedirect()[pri:4, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T11:01:34 IST" name="verifyInstagramRedirect" finished-at="2025-06-26T11:01:34 IST" depends-on-methods="com.webplat.tests.LoginTests.verifyForgotPasswordFlow" duration-ms="465" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyInstagramRedirect -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T10:30:37 IST" name="tearDown" finished-at="2025-06-26T10:30:37 IST" duration-ms="353" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.webplat.tests.LoginTests@49ec71f8]" started-at="2025-06-26T11:01:34 IST" name="tearDown" finished-at="2025-06-26T11:01:35 IST" duration-ms="276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
